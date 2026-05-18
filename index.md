@@ -10,7 +10,7 @@ Right now, I am incredibly excited to be working with **Prof. Siddharth Mehrotra
 
 If you find my profile interesting, want to collaborate on making AI systems safer, or just want to chat, feel free to reach out! 
 
-[Download My CV / Resume](#) | [LinkedIn]([https://www.linkedin.com/in/kritika-pandey-7936b82a7])
+[Download My CV / Resume](#) | [LinkedIn](https://www.linkedin.com/in/kritika-pandey-7936b82a7)
 
 ---
 
