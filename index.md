@@ -4,15 +4,13 @@ title: About Me
 permalink: /
 ---
 
-" tags.
--->
-Hi! I'm a final-year undergraduate studying Computer Science at BITS Pilani. I am broadly interested in trustworthy ML, legal NLP, and the sociotechnical systems that govern human-AI decision-making. 
+I'm a final-year undergraduate studying Computer Science at BITS Pilani. I am broadly interested in trustworthy ML, legal NLP, and the sociotechnical systems that govern human-AI decision-making. 
 
 Right now, I am incredibly excited to be working with **Prof. Siddharth Mehrotra (BITS Pilani) on safe and trustworthy AI**, exploring human oversight and review workflows in public-sector AI systems. Alongside this, I am collaborating with Prof. Yashvardhan Sharma (BITS Pilani) on legal NLP robustness, building on research I did from November 2025 to April 2026 under the guidance of Prof. Kiran Garimella at Rutgers University. 
 
 If you find my profile interesting, want to collaborate on making AI systems safer, or just want to chat, feel free to reach out! 
 
-[Download My CV / Resume](#) | [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[Download My CV / Resume](#) | [LinkedIn]([https://www.linkedin.com/in/kritika-pandey-7936b82a7])
 
 ---
 
