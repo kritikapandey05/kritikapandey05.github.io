@@ -1,51 +1,57 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /
 ---
 
-I am a Computer Science undergraduate at BITS Pilani interested in trustworthy AI, legal NLP, human oversight in AI-assisted systems, and AI governance.
+" tags.
+-->
+Hi! I'm a final-year undergraduate studying Computer Science at BITS Pilani. I am broadly interested in trustworthy ML, legal NLP, and the sociotechnical systems that govern human-AI decision-making. 
 
-My current work explores robustness in legal judgment prediction and human oversight in AI-assisted public systems.
+Right now, I am incredibly excited to be working with **Prof. Siddharth Mehrotra (BITS Pilani) on safe and trustworthy AI**, exploring human oversight and review workflows in public-sector AI systems. Alongside this, I am collaborating with Prof. Yashvardhan Sharma (BITS Pilani) on legal NLP robustness, building on research I did from November 2025 to April 2026 under the guidance of Prof. Kiran Garimella at Rutgers University. 
+
+If you find my profile interesting, want to collaborate on making AI systems safer, or just want to chat, feel free to reach out! 
+
+[Download My CV / Resume](#) | [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 
 ---
 
 ## Research Interests
 
-* Human-AI decision making
-* AI oversight and governance
-* Legal NLP robustness
-* Public-sector AI systems
-* Trustworthy ML
-* Sociotechnical AI systems
+* **Trustworthy Machine Learning:** Safe AI design, human-in-the-loop decision-making, and transparency.
+* **Legal NLP:** Domain-specific model robustness and vulnerability analysis.
+* **AI Governance:** Public-sector deployment frameworks and human oversight standards.
 
 ---
 
-## Current Projects
+## Current Projects & Experience
 
-### Legal Judgment Prediction Robustness
-Research on section-aware perturbations and robustness in legal judgment prediction under transferred section supervision.
+### Safe and Trustworthy AI
+*Advised by Prof. Siddharth Mehrotra (BITS Pilani) | Current*
+* Investigating design patterns and operational frameworks for human-AI oversight in safety-critical public systems.
 
-### Human Oversight in AI-Assisted Public Systems
-Exploring minimum oversight thresholds and review workflows in AI-assisted fraud detection systems.
+### Robustness in Legal NLP
+*Advised by Prof. Yashvardhan Sharma (BITS Pilani) & Prof. Kiran Garimella (Rutgers University) | Nov 2025 – April 2026*
+* Analyzing domain-specific vulnerabilities and robustness under specialized supervision constraints in legal text processing.
 
 ### Digital Public Infrastructure and AI
-Worked on integrating generative AI systems with digital public infrastructure workflows during my internship at FIDE.
+*Summer Internship @ FIDE | 2025*
+* Explored the alignment and integration of generative AI workflows within large-scale digital public infrastructure (DPI).
 
 ---
 
-## Writing
+## Research Notes & Future Writing
 
-I write about:
-* AI governance
-* Human oversight in AI systems
-* Trustworthy and responsible AI
-* Public-sector AI deployment
-* Incentives and decision-making systems
+I am currently compiling thoughts and planning future write-ups on:
+* AI governance & incentives in decision-making systems
+* Human oversight protocols in live deployments
+* Public-sector AI application constraints
 
 ---
 
-## Contact
+## Contact & Links
 
 * **Email:** [kritikapandey05@gmail.com](mailto:kritikapandey05@gmail.com)
 * **GitHub:** [@kritikapandey05](https://github.com/kritikapandey05)
+* **LinkedIn:** [Kritika Pandey](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+* **Resume:** [Curriculum Vitae (PDF)](#)
