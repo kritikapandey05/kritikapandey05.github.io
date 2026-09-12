@@ -1,10 +1,3 @@
----
-
-layout: default
-title: About Me
-permalink: /
-------------
-
 <p class="lede">I'm a final-year Computer Science undergraduate at BITS Pilani interested in human-AI decision-making, trustworthy AI, and the sociotechnical systems around AI deployment.</p>
 
 <p>I'm currently working on human oversight in AI-assisted public-sector decision-making at the Safe &amp; Trusted AI Lab, BITS Pilani, under the supervision of Prof. Siddharth Mehrotra. More broadly, I'm interested in human-AI interaction, trustworthy AI, and AI governance, particularly questions that sit between technical systems and the people and institutions responsible for using them.</p>
